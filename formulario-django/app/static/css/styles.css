@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  color: #0465b2;
+}
+
+h2 {
+  text-align: center;
+  background-color: #0465b2;
+  color: #ffffff;
+  width: 100%;
+}
+
+button {
+  background-color: #0465b2;
+  color: #ffffff;
+  margin: 20px;
+}
+
+form {
+  margin: 20px;
+  width: 500px;
+}
+
+#container-buttons {
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #add68a;
+  text-align: left;
+  width: 400px;
+}
+
+.container tr {
+  padding: 20px;
+}
+
+.register-table {
+  position: relative;
+  align-items: center;
+  text-align: center;
+  padding: 0px 15px;
+}
+
+#preco {
+  text-align: right;
+}
+
+#descricao {
+  text-align: left;
+}
+
+.register-table td {
+  padding: 0px 30px;
+  border: 1px solid #add68a;
+}
+
+.register-table th {
+  padding: 0px 15px;
+  border: 1px solid #add68a;
+}
