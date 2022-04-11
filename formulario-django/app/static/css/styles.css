@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
+/*
+  Importção da fonte Open Sans 400 e 700 do Google Fonts.
+  Nesse css foram considerados exemplos de aplicação de estilo global, aplicação pelo id, classes e tags do html
+*/
+
 * {
   font-family: "Open Sans", sans-serif;
 }
@@ -28,7 +33,7 @@ button {
 
 form {
   margin: 20px;
-  width: 500px;
+  width: 100%;
 }
 
 #container-buttons {
@@ -46,11 +51,13 @@ form {
   padding: 20px;
 }
 
-.register-table {
+.tabela_registro {
   position: relative;
+  align-content: center;
   align-items: center;
   text-align: center;
-  padding: 0px 15px;
+  width: 100%;
+  margin: 0px 20px 0px 20px;
 }
 
 #preco {
@@ -61,12 +68,12 @@ form {
   text-align: left;
 }
 
-.register-table td {
+.tabela_registro td {
   padding: 0px 30px;
   border: 1px solid #add68a;
 }
 
-.register-table th {
+.tabela_registro th {
   padding: 0px 15px;
   border: 1px solid #add68a;
 }
