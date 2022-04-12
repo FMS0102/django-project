@@ -1,4 +1,4 @@
-<h1>✔️Fomulário Em Django - Programação Banck End</h1>
+<h1>✔️Fomulário Em Django - Programação Back End</h1>
 <p>Projeto desenvolvido em Python, utilizando o framework Django 🚀🚀🚀
 <p>Para criação desse projeto, foram considerados os conceitos aprendidos na matéria de <strong>Programação Back End ministrado pela Faesa, no primeiro semestre de 2022.</strong>
 <h1>✔️Objetivo</h1>
